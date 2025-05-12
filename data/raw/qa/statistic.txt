@@ -1,0 +1,91 @@
+Test nhop 1: the average number of noise nodes is (0.0, 0.04, 0.02)
+Total average: 0.06
+Train nhop 1: the average number of noise nodes is (0.0, 0.04, 0.02)
+Total average: 0.06
+Valid nhop 1: the average number of noise nodes is (0.0, 0.032, 0.016)
+Total average: 0.048
+
+Test nhop 2: the average number of noise nodes is (0.0, 0.04, 0.0306)
+Total average: 0.0706
+Train nhop 2: the average number of noise nodes is (0.0, 0.04, 0.0303)
+Total average: 0.0703
+Valid nhop 2: the average number of noise nodes is (0.0, 0.032, 0.024)
+Total average: 0.056
+
+Test nhop 3: the average number of noise nodes is (0.0, 0.04, 0.0295)
+Total average: 0.0695
+Train nhop 3: the average number of noise nodes is (0.0, 0.04, 0.0306)
+Total average: 0.0706
+Valid nhop 3: the average number of noise nodes is (0.0, 0.032, 0.025)
+Total average: 0.057
+
+Test nhop 4: the average number of noise nodes is (0.0203, 0.04, 0.0299)
+Total average: 0.0902
+Train nhop 4: the average number of noise nodes is (0.0196, 0.04, 0.0295)
+Total average: 0.0891
+Valid nhop 4: the average number of noise nodes is (0.011, 0.032, 0.025)
+Total average: 0.068
+
+Test nhop 5: the average number of noise nodes is (0.0303, 0.0493, 0.0387)
+Total average: 0.1183
+Train nhop 5: the average number of noise nodes is (0.0303, 0.05, 0.0397)
+Total average: 0.12
+Valid nhop 5: the average number of noise nodes is (0.02, 0.042, 0.026)
+Total average: 0.088
+
+Test nhop 6: the average number of noise nodes is (0.0382, 0.0511, 0.0398)
+Total average: 0.1291
+Train nhop 6: the average number of noise nodes is (0.04, 0.0488, 0.041)
+Total average: 0.1298
+Valid nhop 6: the average number of noise nodes is (0.038, 0.039, 0.03)
+Total average: 0.107
+
+Test nhop 7: the average number of noise nodes is (0.0463, 0.0499, 0.0392)
+Total average: 0.1354
+Train nhop 7: the average number of noise nodes is (0.0424, 0.0503, 0.0389)
+Total average: 0.1316
+Valid nhop 7: the average number of noise nodes is (0.024, 0.042, 0.034)
+Total average: 0.1
+
+Test nhop 8: the average number of noise nodes is (0.0522, 0.0597, 0.0485)
+Total average: 0.1604
+Train nhop 8: the average number of noise nodes is (0.0488, 0.0614, 0.0494)
+Total average: 0.1596
+Valid nhop 8: the average number of noise nodes is (0.033, 0.05, 0.035)
+Total average: 0.118
+
+Test nhop 9: the average number of noise nodes is (0.0605, 0.0607, 0.0502)
+Total average: 0.1714
+Train nhop 9: the average number of noise nodes is (0.0608, 0.0586, 0.0486)
+Total average: 0.168
+Valid nhop 9: the average number of noise nodes is (0.045, 0.054, 0.039)
+Total average: 0.138
+
+Test nhop 10: the average number of noise nodes is (0.0638, 0.0611, 0.0473)
+Total average: 0.1722
+Train nhop 10: the average number of noise nodes is (0.0648935106489351, 0.05829417058294171, 0.04999500049995)
+Total average: 0.17318268173182683
+Valid nhop 10: the average number of noise nodes is (0.061, 0.043, 0.041)
+Total average: 0.145
+
+Test nhop 20: the average number of noise nodes is (0.12576166217161122, 0.09969034062531215, 0.09399660373589053)
+Total average: 0.31944860653281393
+Train nhop 20: the average number of noise nodes is (0.13432537700988714, 0.09517627084789773, 0.08608808548886447)
+Total average: 0.31558973334664936
+Valid nhop 20: the average number of noise nodes is (0.10179640718562874, 0.06387225548902195, 0.0688622754491018)
+Total average: 0.2345309381237525
+
+Test nhop 50: the average number of noise nodes is (0.22228739002932552, 0.19980449657869012, 0.18914956011730205)
+Total average: 0.6112414467253177
+Train nhop 50: the average number of noise nodes is (0.23676470588235293, 0.19205882352941175, 0.19029411764705884)
+Total average: 0.6191176470588236
+Valid nhop 50: the average number of noise nodes is (0.25317693059628543, 0.15347018572825025, 0.15151515151515152)
+Total average: 0.5581622678396871
+
+Test nhop 100: the average number of noise nodes is (0.42945710455764075, 0.2871983914209115, 0.30554624664879354)
+Total average: 1.0222017426273458
+Train nhop 100: the average number of noise nodes is (0.44655095683133067, 0.30262572318647085, 0.3254116599910992)
+Total average: 1.0745883400089007
+Valid nhop 100: the average number of noise nodes is (0.3279424977538185, 0.24977538185085355, 0.24977538185085355)
+Total average: 0.8274932614555256
+

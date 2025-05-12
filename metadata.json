@@ -1,0 +1,110 @@
+{
+  "@context": {
+    "@language": "en",
+    "@vocab": "https://schema.org/",
+    "citeAs": "cr:citeAs",
+    "column": "cr:column",
+    "conformsTo": "dct:conformsTo",
+    "cr": "http://mlcommons.org/croissant/",
+    "rai": "http://mlcommons.org/croissant/RAI/",
+    "data": {
+      "@id": "cr:data",
+      "@type": "@json"
+    },
+    "dataType": {
+      "@id": "cr:dataType",
+      "@type": "@vocab"
+    },
+    "dct": "http://purl.org/dc/terms/",
+    "examples": {
+      "@id": "cr:examples",
+      "@type": "@json"
+    },
+    "extract": "cr:extract",
+    "field": "cr:field",
+    "fileProperty": "cr:fileProperty",
+    "fileObject": "cr:fileObject",
+    "fileSet": "cr:fileSet",
+    "format": "cr:format",
+    "includes": "cr:includes",
+    "isLiveDataset": "cr:isLiveDataset",
+    "jsonPath": "cr:jsonPath",
+    "key": "cr:key",
+    "md5": "cr:md5",
+    "parentField": "cr:parentField",
+    "path": "cr:path",
+    "recordSet": "cr:recordSet",
+    "references": "cr:references",
+    "regex": "cr:regex",
+    "repeated": "cr:repeated",
+    "replace": "cr:replace",
+    "sc": "https://schema.org/",
+    "separator": "cr:separator",
+    "source": "cr:source",
+    "subField": "cr:subField",
+    "transform": "cr:transform",
+    "wd": "https://www.wikidata.org/wiki/"
+  },
+  "@type": "sc:Dataset",
+  "conformsTo": "http://mlcommons.org/croissant/1.0",
+  "name": "DecompSR",
+  "url": "https://doi.org/10.7910/DVN/NWDUNY",
+  "creator": [
+    {
+      "@type": "Person",
+      "givenName": "Anonymous",
+      "familyName": "Anonymous",
+      "name": "Anonymous, Anonymous"
+    }
+  ],
+  "description": "h",
+  "keywords": [
+    "Computer and Information Science"
+  ],
+  "license": "http://creativecommons.org/publicdomain/zero/1.0",
+  "datePublished": "2025-05-15",
+  "dateModified": "2025-05-15",
+  "includedInDataCatalog": {
+    "@type": "DataCatalog",
+    "name": "Harvard Dataverse",
+    "url": "https://dataverse.harvard.edu"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Harvard Dataverse"
+  },
+  "version": "1.0",
+  "citeAs": "@data{DVN/NWDUNY_2025,author = {Anonymous, Anonymous},publisher = {Harvard Dataverse},title = {DecompSR},year = {2025},url = {https://doi.org/10.7910/DVN/NWDUNY}}",
+  "distribution": [
+    {
+      "@type": "cr:FileObject",
+      "@id": "DecompSR_100K.jsonl.xz",
+      "name": "DecompSR_100K.jsonl.xz",
+      "encodingFormat": "application/x-compressed",
+      "md5": "16f79b8f85a09005461feb331a02245c",
+      "contentSize": "1357816620",
+      "description": "This file contains 100K data points per nhops value where nhops varies from 1 to 10, 20, 50,100. For each nhop, we further have data for shuffled, unshuffled, clean and noise version. We have equal distribution of the label - above, below, left, right, upper-left, upper-right, lower-left, and lower-right.",
+      "contentUrl": "https://dataverse.harvard.edu/api/access/datafile/11424483"
+    },
+    {
+      "@type": "cr:FileObject",
+      "@id": "DecompSR_10K.jsonl.xz",
+      "name": "DecompSR_10K.jsonl.xz",
+      "encodingFormat": "application/x-compressed",
+      "md5": "bfb0081621d007cdb4ac754c17e1dd4c",
+      "contentSize": "133050560",
+      "description": "This file contains 10K data points per nhops value where nhops varies from 1 to 10, 20, 50,100. For each nhop, we further have data for shuffled, unshuffled, clean and noise version. We have equal distribution of the label - above, below, left, right, upper-left, upper-right, lower-left, and lower-right.",
+      "contentUrl": "https://dataverse.harvard.edu/api/access/datafile/11424988"
+    },
+    {
+      "@type": "cr:FileObject",
+      "@id": "DecompSR_200.jsonl.xz",
+      "name": "DecompSR_200.jsonl.xz",
+      "encodingFormat": "application/x-compressed",
+      "md5": "ecea48c5319962d4877419c8c4b6127f",
+      "contentSize": "1838428",
+      "description": "This file contains 200 data points per nhops value where nhops varies from 1 to 10, 20, 50,100. For each nhop, we further have data for shuffled, unshuffled, clean and noise version. We have equal distribution of the label - above, below, left, right, upper-left, upper-right, lower-left, and lower-right.",
+      "contentUrl": "https://dataverse.harvard.edu/api/access/datafile/11425491"
+    }
+  ]
+}
